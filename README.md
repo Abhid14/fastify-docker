@@ -7,6 +7,7 @@ Building the image
 `
 docker build -t fastify-docker .
 `
+
 Running the docker image you just built
 
 `
