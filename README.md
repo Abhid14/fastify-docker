@@ -1,4 +1,4 @@
-#Fastify-Docker 
+##Fastify-Docker 
 
 Just running fastify in docker!
 
@@ -13,3 +13,7 @@ Running the docker image you just built
 `
 docker run -dp 3000:3000 fastify-docker
 `
+
+Edit as per your requirements:
+
+`index.js` , `package.json` , `Dockerfile` 
