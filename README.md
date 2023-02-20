@@ -2,6 +2,12 @@
 
 Just running fastify in docker!
 
+try it by running this
+
+`
+docker run -dp 3000:3000 abhid14/fastify-docker
+`
+
 Building the image
 
 `
